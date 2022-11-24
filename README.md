@@ -2,4 +2,4 @@
 - 👯 I’m looking to collaborate on federated health infrastructure.
 - 📫 How to reach me: [Email](hw@ponc.tech)
 - 😄 Pronouns: he/him/they/them
-- <<a rel="me" href="https://hachyderm.io/@oliof">Hachyderm</a>
+- <a rel="me" href="https://hachyderm.io/@oliof">Hachyderm</a>
